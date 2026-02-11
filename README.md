@@ -1,4 +1,4 @@
-# AI-CYBERSECURITY ALERT TRIAGE AGENT
+# AI-CYBERSECURITY ALERT TRIAGE AGENT 🤖
 ## Project Goal
 Use AI to automatically identify real cybersecurity threats and filter out noise from thousands of alerts, saving time, money, and effort for analysts.
 
